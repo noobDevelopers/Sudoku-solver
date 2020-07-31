@@ -2,7 +2,7 @@
 A simple program which solves sudoku problems
 
 This program uses the concept of backtracking.
-The program needs to be fed with the question by entering the numbers in the given problem in the form of a list.
+The program needs to be fed with the question by entering the numbers in the given problem in the form of a list, but needs input by changing a part of code which contains the sample list already given. 
 
 NOTE : The blank spaces (which needs to be filled by us) should be entered as "0".
 
